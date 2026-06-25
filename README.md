@@ -2,16 +2,16 @@
 
 ## About Protoface
 
-Protoface adds a high-quality, real-time face to your AI app or agent.
+Protoface adds a real-time avatar to your AI app or agent.
 
-Get a **free** API key at [protoface.com](https://protoface.com/?utm_source=github&utm_medium=referral&utm_campaign=github_docs&utm_content=TODO-INSERT-REPO-NAME).
+Get a **free** API key at [protoface.com](https://protoface.com/?utm_source=github&utm_medium=referral&utm_campaign=github_docs&utm_content=protoface-quickstart).
 
-Read the docs at [docs.protoface.com](https://docs.protoface.com/?utm_source=github&utm_medium=referral&utm_campaign=github_docs&utm_content=TODO-INSERT-REPO-NAME).
+Read the docs at [docs.protoface.com](https://docs.protoface.com/?utm_source=github&utm_medium=referral&utm_campaign=github_docs&utm_content=protoface-quickstart).
 
 
 ## Protoface: Quickstarts
 
-Protoface integrates with your existing voice AI platform. We've made quickstarts for popular stacks. 
+Protoface integrates with popular voice AI platforms.
 
 Clone a starter repo, add your keys to the environment file, and run. If a plugin is available to make life easier, we've linked to it too.
 
