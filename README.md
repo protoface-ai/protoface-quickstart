@@ -13,7 +13,7 @@ Read the docs at [docs.protoface.com](https://docs.protoface.com/?utm_source=git
 
 Protoface integrates with popular voice AI platforms.
 
-Clone a starter repo, add your keys to the environment file, and run. 
+Clone a starter repo, add your keys to the environment file, and run.
 
 If an SDK or plugin is available separately, we've linked to it instead.
 
