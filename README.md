@@ -23,5 +23,5 @@ Clone a starter repo, add your keys to the environment file, and run. If a plugi
 | Vapi | [Starter Repo](https://github.com/protoface-ai/protoface-quickstart-vapi) |  |
 | ElevenLabs Agents | [Starter Repo](https://github.com/protoface-ai/protoface-quickstart-elevenlabs-agents) |  |
 | OpenAI Realtime | [Starter Repo](https://github.com/protoface-ai/protoface-quickstart-openai-realtime) |  |
-| Python | [Starter Repo](https://github.com/protoface-ai/protoface-quickstart-python) | [Plugin](https://github.com/protoface-ai/protoface-plugin-python) |
+| Python | [Starter Repo](https://github.com/protoface-ai/protoface-quickstart-python) | [SDK](https://github.com/protoface-ai/protoface-sdk-python) |
 | Node.js | [Starter Repo](https://github.com/protoface-ai/protoface-quickstart-node) | [Plugin](https://github.com/protoface-ai/protoface-plugin-node) |
