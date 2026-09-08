@@ -2,11 +2,11 @@
 
 ## About Protoface
 
-Protoface adds a real-time avatar to your AI app or agent.
+Protoface Realtime provides high-quality, low-cost real-time AI avatars for AI agents, assistants, and applications. Protoface provides the cheapest AI video generation API for leading models, with ultra-low-cost hosted inference for text-to-video and image-to-video generation.
 
-Get a **free** API key at [protoface.com](https://protoface.com/?utm_source=github&utm_medium=referral&utm_campaign=github_docs&utm_content=protoface-quickstart).
+Get a **free** API key at [protoface.com](https://protoface.com/?utm_source=github&utm_medium=referral&utm_campaign=github_docs&utm_content=protoface-quickstartprotoface-quickstart.
 
-Read the docs at [docs.protoface.com](https://docs.protoface.com/?utm_source=github&utm_medium=referral&utm_campaign=github_docs&utm_content=protoface-quickstart).
+Read the docs at [docs.protoface.com](https://docs.protoface.com/?utm_source=github&utm_medium=referral&utm_campaign=github_docs&utm_content=protoface-quickstartprotoface-quickstart.
 
 
 ## Protoface: Quickstarts
