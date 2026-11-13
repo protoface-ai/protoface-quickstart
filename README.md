@@ -2,7 +2,7 @@
 
 ## About Protoface
 
-The Protoface inference platform provides the cheapest AI media generation API for leading video and world models. Generate video with ultra-low-cost hosted inference.
+The Protoface inference platform provides the cheapest AI media generation API for leading video and world models. Generate video with ultra-low-cost hosted inference. Now with the [cheapest Seedance 2.5 API](https://docs.protoface.com/guides/generate-video).
 
 Protoface Realtime provides high-quality, low-cost real-time AI avatars for AI agents, assistants, and applications. Protoface provides the cheapest AI video generation API for leading models, with ultra-low-cost hosted inference for text-to-video and image-to-video generation.
 
